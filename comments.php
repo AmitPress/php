@@ -18,3 +18,13 @@
 // again, use documention comment before function not instead in the function
 
 // use single comment in the function to reduce complexity of reading the code
+
+/**
+ * use documentation annotations for readability
+ * like,
+ * @param
+ * @return
+ * 
+ */
+
+ 
