@@ -80,3 +80,8 @@ We have seen function templating , class templating in c++. This templating is a
 #### 10. Declarative
 
 Here we will discuss Imperative vs Declarative approach
+
+Imperative approach is like english grammer's imperative mood. It explains the machine what to do and how to do through lines of instruction. So, imperative generally means the 'from the scratch' approach. In the other hand, declaritive means you just need to cherry pick the stuffs you need.
+
+Here OOP comes in both of the categories.
+But in the true sense, OOP is of declarative manner. The imperative manner of OOP is that when we create the class. Class creation is totally imperative. But when we declare an object, we are given a lot options with the object and we later on will choose which option we want to use. So, in declarative manner all the things are already available, now we have to pick the appropriate ones and do our work.
