@@ -27,4 +27,25 @@
  * 
  */
 
+/**
+ * @author
+ * @todo
+ * @copyright
+ * @license
+ * @param
+ * @return
+ * @throws
+ */
+
+/**
+ * @author Amit Kumar
+ * @param $first The first number
+ * @param $second The second number
+ * @return sum of two numbers
+ */
+
+function sum($first,$second){
+    return $first+$second;
+}
+
  
