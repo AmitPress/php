@@ -85,3 +85,17 @@ Imperative approach is like english grammer's imperative mood. It explains the m
 
 Here OOP comes in both of the categories.
 But in the true sense, OOP is of declarative manner. The imperative manner of OOP is that when we create the class. Class creation is totally imperative. But when we declare an object, we are given a lot options with the object and we later on will choose which option we want to use. So, in declarative manner all the things are already available, now we have to pick the appropriate ones and do our work.
+
+### PHP CORE ->
+    -Variable
+    -Constant
+    -Data type
+    -Modifier of Variables (static,global etc)
+    -Comments
+    -Type casting
+    -Control
+    -Function
+    -File handling
+    -Math
+    -String
+    -Array
