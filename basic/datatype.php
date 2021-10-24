@@ -1,6 +1,6 @@
 <?php
 /*
-php has several datatype like integer, float,boolean, string, array, Object, null
+php has several datatype like integer, float, boolean, string, array, Object, null
  */
 
  //boolean - identified as bool

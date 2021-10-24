@@ -1,0 +1,21 @@
+---
+installation: sudo dnf install php
+deps: 
+    i)httpd
+    ii)nginx
+    iii)php-common
+weak deps:
+    i)mod_http2
+    ii)mod_lua
+    iii)php_cli
+    iv)php_json
+    v)php-fpm
+    vi)php-mbstring
+    vii)php-opcache
+    viii)php-sodium
+    ix)php-xml
+
+download-size:
+    11MB
+    expands to nearly 54MB
+---
