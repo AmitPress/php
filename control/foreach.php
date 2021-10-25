@@ -1,5 +1,5 @@
 <?php
 
-$arr = array("Nim", "Go", "Rust", "Elixir", "Zig", "Dart");
+$arr = array("Norj", "Blind", "Purge", "Elmmi", "Fring");
 
 foreach($arr as $lang) echo $lang . " ";
